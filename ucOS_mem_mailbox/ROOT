@@ -1,0 +1,14 @@
+session PiCore = "HOL" +
+  theories
+    func_cor_OSMboxAccept
+    func_cor_OSMboxPend
+    func_cor_OSMboxPost
+    func_cor_OSMemGet  
+    func_cor_OSMemPut 
+    func_cor_other 
+    Heap 
+    invariant
+    kernel_spec
+    OS_kernel_sys
+    OS_kernel_inv
+    rg_cond

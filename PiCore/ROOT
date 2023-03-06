@@ -1,0 +1,8 @@
+session PiCore = "HOL" +
+  theories
+    PiCore_Computation 
+    PiCore_Hoare  
+    PiCore_Language 
+    PiCore_RG_Invariant 
+    PiCore_Semantics 
+    PiCore_Validity
