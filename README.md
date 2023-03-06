@@ -13,4 +13,4 @@ The project is developed by Isabelle/HOL 2018, latest version may need some slig
 * func_cor_OSMemGet, func_cor_OSMemPut: proof for memory management services
 * func_cor_OSMboxPost, func_cor_OSMboxPend, func_cor_OSMboxAccept : proof for mailbox services
 * OS_kernel_sys : proof for the functional correctness of whole system
-* OS_kernle_inv : 
+* OS_kernle_inv : proof for the invariant preservation of whole system
