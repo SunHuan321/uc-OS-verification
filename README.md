@@ -4,7 +4,7 @@
 This project contains a case study for verification of memory management and mailbox modules for uc/OS-II. It uses PiCore, one of the state-of-the-art rely-guarantee reasoning frameworks for concurrent reactive systems (CRSs) to model and verify the functional correctness and invariant preservation for uc/OS-II.
 
 ## How do I get set up?
-The project is developed by Isabelle/HOL 2018, latest version may need some slight adjustments. You can load theorems by dragging them in the Isabelle/HOL GUI
+The project is developed by Isabelle/HOL 2018, the latest version needs some adjustments and we're working on it. You can load theorems by dragging them in the Isabelle/HOL GUI
 
 ### ucOS_mem_mailbox
 * kernel_spec : specification for kernel services of uc/OS-II at code level
